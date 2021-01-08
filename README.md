@@ -5,7 +5,7 @@ I'm Sophie, a 16-year-old high school student from Canada 🇨🇦. I am passion
 - 🔭 I’m currently working on an Android app
 - 🌱 I’m currently learning: C++
 - 😄 Pronouns: she/her
--->
+
 
 <!--
 **sophie-zhangg/sophie-zhangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
