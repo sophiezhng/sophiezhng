@@ -2,7 +2,7 @@
 
 I'm Sophie, a 16-year-old high school student from Canada 🇨🇦. I am passionate about computer science, community service, and bettering the world through technology! 
 
-- 🔭 I’m currently working on an Android app
+- 🔭 I’m currently working on an Android productivity app
 - 🌱 I’m currently learning: C++
 - 😄 Pronouns: she/her
 
