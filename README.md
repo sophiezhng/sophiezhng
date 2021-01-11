@@ -6,7 +6,7 @@ I'm Sophie, a 16-year-old high school student from Canada 🇨🇦. I am passion
 - 🌱 I’m currently learning: C++
 - 😄 Pronouns: she/her
 
-[![Sophie's github stats](https://github-readme-stats.vercel.app/apisophie-zhangg=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Sophie's github stats](https://github-readme-stats.vercel.app/api?username=sophie-zhangg&show_icons=true&theme=radical)
 <!--
 **sophie-zhangg/sophie-zhangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
