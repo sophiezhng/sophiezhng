@@ -2,8 +2,8 @@
 
 I'm Sophie, a 16-year-old high school student from Canada 🇨🇦. I am passionate about computer science, community service, and bettering the world through technology! 
 
-- 🔭 I’m currently working on an Android productivity app
-- 🌱 I’m currently learning: C++ and Python
+- 🔭 I’m currently working on a desktop app
+- 🌱 I’m currently learning: JavaFX
 - 😄 Pronouns: she/her
 <!--
 **sophie-zhangg/sophie-zhangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
