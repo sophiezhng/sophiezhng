@@ -1,12 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Sophie 👋
 
-I'm Sophie, a 16-year-old high school student from Canada 🇨🇦. I am passionate about computer science, community service, and bettering the world through technology! 
+Welcome to my GitHub profile! I'm a 16-year-old high school student from Canada 🇨🇦 who's passionate about computer science, community service, and bettering the world through technology. 
 
 - 🔭 I’m currently working on a desktop app
 - 🌱 I’m currently learning: JavaFX
 - 😄 Pronouns: she/her
+- ⚡ Fun fact: I like oil painting and creating art in my free time!
 <!--
-**sophie-zhangg/sophie-zhangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sophiezhng/sophiezhng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,5 +18,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
