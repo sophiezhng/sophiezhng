@@ -1,6 +1,6 @@
 ### Hi there, I'm Sophie 👋
 
-Welcome to my GitHub profile! I'm a 16-year-old high school student from Canada 🇨🇦 who's passionate about computer science, community service, and bettering the world through technology. 
+Welcome to my GitHub profile! I'm a 16-year-old Canadian 🇨🇦 high school student who's passionate about computer science, community service, and bettering the world through technology. 
 
 - 🔭 I’m currently working on a desktop app
 - 🌱 I’m currently learning: JavaFX
