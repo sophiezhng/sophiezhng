@@ -2,8 +2,7 @@
 
 Welcome to my GitHub profile! I'm a 16-year-old Canadian 🇨🇦 high school student who's passionate about computer science, community service, and bettering the world through technology. 
 
-- 🔭 I’m currently working on a desktop app
-- 🌱 I’m currently learning: JavaFX
+- 🌱 I’m currently learning: C++
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like oil painting and creating art in my free time!
 <!--
