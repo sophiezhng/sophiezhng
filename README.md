@@ -1,6 +1,6 @@
 ### Hi there, I'm Sophie 👋
 
-Welcome to my GitHub profile! I'm a Canadian 🇨🇦 high school student who's passionate about computer science, community service, and bettering the world through technology. 
+Welcome to my GitHub profile! I'm a Canadian 🇨🇦 university undergraduate student who's passionate about computer science, finance, community service, and bettering the world through technology. 
 
 - 🌱 I’m currently learning: C++
 - 😄 Pronouns: she/her
